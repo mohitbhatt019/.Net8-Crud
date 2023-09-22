@@ -1,0 +1,32 @@
+D:\.Net 8\First .net-8 Project\First .net-8 Project\bin\Debug\net8.0\appsettings.Development.json
+D:\.Net 8\First .net-8 Project\First .net-8 Project\bin\Debug\net8.0\appsettings.json
+D:\.Net 8\First .net-8 Project\First .net-8 Project\bin\Debug\net8.0\First .net-8 Project.exe
+D:\.Net 8\First .net-8 Project\First .net-8 Project\bin\Debug\net8.0\First .net-8 Project.deps.json
+D:\.Net 8\First .net-8 Project\First .net-8 Project\bin\Debug\net8.0\First .net-8 Project.runtimeconfig.json
+D:\.Net 8\First .net-8 Project\First .net-8 Project\bin\Debug\net8.0\First .net-8 Project.dll
+D:\.Net 8\First .net-8 Project\First .net-8 Project\bin\Debug\net8.0\First .net-8 Project.pdb
+D:\.Net 8\First .net-8 Project\First .net-8 Project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\.Net 8\First .net-8 Project\First .net-8 Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.Net 8\First .net-8 Project\First .net-8 Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.Net 8\First .net-8 Project\First .net-8 Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.Net 8\First .net-8 Project\First .net-8 Project\obj\Debug\net8.0\First .net-8 Project.csproj.AssemblyReference.cache
+D:\.Net 8\First .net-8 Project\First .net-8 Project\obj\Debug\net8.0\First .net-8 Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net 8\First .net-8 Project\First .net-8 Project\obj\Debug\net8.0\First .net-8 Project.AssemblyInfoInputs.cache
+D:\.Net 8\First .net-8 Project\First .net-8 Project\obj\Debug\net8.0\First .net-8 Project.AssemblyInfo.cs
+D:\.Net 8\First .net-8 Project\First .net-8 Project\obj\Debug\net8.0\First .net-8 Project.csproj.CoreCompileInputs.cache
+D:\.Net 8\First .net-8 Project\First .net-8 Project\obj\Debug\net8.0\First .net-8 Project.MvcApplicationPartsAssemblyInfo.cs
+D:\.Net 8\First .net-8 Project\First .net-8 Project\obj\Debug\net8.0\First .net-8 Project.MvcApplicationPartsAssemblyInfo.cache
+D:\.Net 8\First .net-8 Project\First .net-8 Project\obj\Debug\net8.0\staticwebassets.build.json
+D:\.Net 8\First .net-8 Project\First .net-8 Project\obj\Debug\net8.0\staticwebassets.development.json
+D:\.Net 8\First .net-8 Project\First .net-8 Project\obj\Debug\net8.0\staticwebassets\msbuild.First .net-8 Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.Net 8\First .net-8 Project\First .net-8 Project\obj\Debug\net8.0\staticwebassets\msbuild.build.First .net-8 Project.props
+D:\.Net 8\First .net-8 Project\First .net-8 Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.First .net-8 Project.props
+D:\.Net 8\First .net-8 Project\First .net-8 Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.First .net-8 Project.props
+D:\.Net 8\First .net-8 Project\First .net-8 Project\obj\Debug\net8.0\staticwebassets.pack.json
+D:\.Net 8\First .net-8 Project\First .net-8 Project\obj\Debug\net8.0\scopedcss\bundle\First .net-8 Project.styles.css
+D:\.Net 8\First .net-8 Project\First .net-8 Project\obj\Debug\net8.0\First .net-8 Project.csproj.CopyComplete
+D:\.Net 8\First .net-8 Project\First .net-8 Project\obj\Debug\net8.0\First .net-8 Project.dll
+D:\.Net 8\First .net-8 Project\First .net-8 Project\obj\Debug\net8.0\refint\First .net-8 Project.dll
+D:\.Net 8\First .net-8 Project\First .net-8 Project\obj\Debug\net8.0\First .net-8 Project.pdb
+D:\.Net 8\First .net-8 Project\First .net-8 Project\obj\Debug\net8.0\First .net-8 Project.genruntimeconfig.cache
+D:\.Net 8\First .net-8 Project\First .net-8 Project\obj\Debug\net8.0\ref\First .net-8 Project.dll
